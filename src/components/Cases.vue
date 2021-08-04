@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="case">
                     <div class="case__img">
-                        <img src="https:picsum.photos/600/600" alt="">
+                        <img src="https://picsum.photos/600/600" alt="">
                         <span>01</span>
                     </div>
                     <h2 class="miniTitle">Face of Mars</h2>
@@ -17,7 +17,7 @@
                 </div>
                 <div class="case">
                     <div class="case__img">
-                        <img src="https:picsum.photos/600/601" alt="">
+                        <img src="https://picsum.photos/600/601" alt="">
                         <span>02</span>
                     </div>
                     <h2 class="miniTitle">Heavenly Bodies</h2>
@@ -25,7 +25,7 @@
                 </div>
                 <div class="case">
                     <div class="case__img">
-                        <img src="https:picsum.photos/600/602" alt="">
+                        <img src="https://picsum.photos/600/602" alt="">
                         <span>03</span>
                     </div>
                     <h2 class="miniTitle">Liberal Education</h2>
@@ -33,7 +33,7 @@
                 </div>
                 <div class="case">
                     <div class="case__img">
-                        <img src="https:picsum.photos/600/603" alt="">
+                        <img src="https://picsum.photos/600/603" alt="">
                         <span>04</span>
                     </div>
                     <h2 class="miniTitle">Though the Gravity</h2>
